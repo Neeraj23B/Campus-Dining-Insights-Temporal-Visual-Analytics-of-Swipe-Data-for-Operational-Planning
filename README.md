@@ -1,0 +1,2 @@
+# Campus-Dining-Insights-Temporal-Visual-Analytics-of-Swipe-Data-for-Operational-Planning
+This project analyses campus dining swipe data to understand how usage changes across time—by hour, weekday, and semester. Using temporal visual analytics, the project identifies predictable peaks and quiet periods. The visualizations help dining managers adjust staffing, students plan visits, and operations forecast resources. 
